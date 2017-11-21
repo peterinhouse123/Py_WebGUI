@@ -1,0 +1,2 @@
+2017/11/08 00:30:07 [notice] 604976#604972: signal process started
+2017/11/08 00:30:07 [error] 604976#604972: OpenEvent("Global\ngx_reload_596908") failed (2: The system cannot find the file specified)
